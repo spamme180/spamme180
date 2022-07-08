@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @spamme180
+- 👀 I’m interested in QT.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on a new todo list app written with PyQt for Windows and Linux.
+- 📫 How to reach me: spamme180@gmail.com. Mention that you found me on github in your email.
